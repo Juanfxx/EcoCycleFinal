@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/drawable_ecocycle_logo.jpg.flat",
+        "source": "com.example.ecocycle.app-main-45:/drawable/ecocycle_logo.jpg"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/layout_puntos_reciclaje.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/layout/puntos_reciclaje.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/layout_comenzar_reciclaje.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/layout/comenzar_reciclaje.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/layout_principal_layout.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/layout/principal_layout.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/drawable_button_green_background.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/drawable/button_green_background.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/drawable_inicio.jpg.flat",
+        "source": "com.example.ecocycle.app-main-45:/drawable/inicio.jpg"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/layout_activity_register.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/layout_activity_profile.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecocycle.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.ecocycle.app-debug-43:/layout_activity_login.xml.flat",
+        "source": "com.example.ecocycle.app-main-45:/layout/activity_login.xml"
+    }
+]
